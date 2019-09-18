@@ -92,6 +92,7 @@ const createColorPicker = function createColorPicker(initialValue, callback) { /
   });
 
   // call update() to initialize to the correct value
+  
 
 
   // return the picker
